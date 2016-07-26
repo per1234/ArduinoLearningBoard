@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * RFID Library
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 /* RFID.h - Library to use ARDUINO RFID MODULE KIT 13.56 MHZ WITH TAGS SPI W AND R BY COOQROBOT.
  * Based on code Dr.Leong   ( WWW.B2CQSHOP.COM )
  * Created by Miguel Balboa (circuitito.com), Jan, 2012. 

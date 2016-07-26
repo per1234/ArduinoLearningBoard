@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * SPI Master Library for Arduino
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 /*
  * Copyright (c) 2010 by Cristian Maglie <c.maglie@bug.st>
  * SPI Master library for arduino.

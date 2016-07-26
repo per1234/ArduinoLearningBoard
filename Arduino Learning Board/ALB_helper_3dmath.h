@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * 3D Math Helper Library for MPU6050 Gyro Module
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 // I2C device class (I2Cdev) demonstration Arduino sketch for MPU6050 class, 3D math helper
 // 6/5/2012 by Jeff Rowberg <jeff@rowberg.net>
 // Updates should (hopefully) always be available at https://github.com/jrowberg/i2cdevlib

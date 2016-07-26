@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * Seven Segment Display Library
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 /* SevSeg Library
  
  Copyright 2014 Dean Reading

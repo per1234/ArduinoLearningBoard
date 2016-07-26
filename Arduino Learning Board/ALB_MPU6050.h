@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * MPU6050 Gyro Library
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 // I2Cdev library collection - MPU6050 I2C device class
 // Based on InvenSense MPU-6050 register map document rev. 2.0, 5/19/2011 (RM-MPU-6000A-00)
 // 10/3/2011 by Jeff Rowberg <jeff@rowberg.net>

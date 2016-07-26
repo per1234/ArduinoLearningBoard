@@ -1,6 +1,14 @@
-/*
- * DS1302RTC.h - library for DS1302 RTC
- * This library is intended to be uses with Arduino Time.h library functions
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * DS1302 RTC - Library for DS1302 Real Time Clock
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
  */
 
 #ifndef DS1302RTC_h

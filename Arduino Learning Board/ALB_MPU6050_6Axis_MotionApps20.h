@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * MPU6050 6-Axis Gyro Motion Apps Library
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 // I2Cdev library collection - MPU6050 I2C device class, 6-axis MotionApps 2.0 implementation
 // Based on InvenSense MPU-6050 register map document rev. 2.0, 5/19/2011 (RM-MPU-6000A-00)
 // 5/20/2013 by Jeff Rowberg <jeff@rowberg.net>

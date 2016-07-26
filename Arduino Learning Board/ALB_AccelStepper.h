@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * AccelStepper library for Arduino
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 // AccelStepper.h
 //
 /// \mainpage AccelStepper library for Arduino
@@ -658,4 +671,4 @@ private:
 /// Itead Studio Arduino Dual Stepper Motor Driver Shield
 /// model IM120417015
 
-#endif 
+#endif

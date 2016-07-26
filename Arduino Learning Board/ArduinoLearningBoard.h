@@ -1,3 +1,35 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * This is the main "Parent" library that gets included into each
+ * sketch that requires one of the "child" libraries
+ *
+ * In each sketch, first DEFINE the components of the library that are 
+ * going to be used for that sketch:
+ *
+ * #define USE_ALB_LCD_I2C // LCD Library
+ *
+ * THEN include the main ArduinoLearningBoard library.
+ * Based on the one or more defines above, the appropriate
+ * modules will be added to the project
+ *
+ * #include "ArduinoLearningBoard.h"
+ *
+ * List of child libraries that may be included:
+ *   #define USE_ALB_I2C_Scan
+ *   #define USE_ALB_LCD_I2C
+ *   #define USE_ALB_DHT11
+ *   #define USE_ALB_DS1302
+ *   #define USE_ALB_Servo
+ *   #define USE_ALB_Stepper
+ *   #define USE_ALB_RFID
+ *   #define USE_ALB_MPU6050
+ *   #define USE_ALB_SevenSegment
+ *
+ */
+ 
 /*
 	ArduinoLearningBoard.h - Arduino Learning Board Library
 	Created by Jeff Shapiro, July 2016

@@ -1,3 +1,16 @@
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * Servo Library
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
+
 /*
   Servo.h - Interrupt driven Servo library for Arduino using 16 bit timers- Version 2
   Copyright (c) 2009 Michael Margolis.  All right reserved.
@@ -17,8 +30,7 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-/* 
-  
+/*   
   A servo is activated by creating an instance of the Servo class passing the desired pin to the attach() method.
   The servos are pulsed in the background using the value most recently written using the write() method
 

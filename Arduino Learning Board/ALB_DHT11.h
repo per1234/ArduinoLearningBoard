@@ -1,4 +1,15 @@
-/* DHT library */
+/* 
+ * Arduino Learning Board Project
+ *
+ * Please visit http://www.ArduinoLearningBoard.com for more information
+ *
+ * DHT11 - Temperature/Humidity Sensor Library
+ *
+ * (Most of the included libraries were "collected" from other places
+ *  and combined into one master library to simplify using the
+ *  Arduino Learning Board sample programs)
+ *
+ */
 
 #ifndef ALB_DHT11_H
 #define ALB_DHT11_H
